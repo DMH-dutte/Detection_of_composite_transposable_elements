@@ -17,7 +17,7 @@ This project was executed on the NEC HPC-System (nesh) of the University of Kiel
 Thus, it its possible that images in the notebook code/3_LSTMs.ipynb are not displayed properly. You'll find the graphs in code/graphs/ and further information on how the job was committed to the cluster in /code/HPC. Also, we added a .pdf of cod/3_LSTMs.ipyn in code/.
 
 ### Participants:
-Yiging Wang<br/>Dustin Hanke
+Yiqing Wang<br/>Dustin Hanke
 
 
 ### Contact information:
