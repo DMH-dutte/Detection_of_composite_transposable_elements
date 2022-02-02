@@ -14,7 +14,7 @@ Composite transposable elements are usually associated with essential and indisp
 
 ### HPC cluster:
 This project was executed on the NEC HPC-System (nesh) of the University of Kiel (CAU). 4 x NVIDIA Tesla V100-GPU cards have been used for training. <br/>
-Thus, it its possible that images in the notebook code/3_LSTMs.ipynb are not displayed properly. You'll find the graphs in code/graphs/ and further information on how the job was committed to the cluster in /code/HPC. 
+Thus, it its possible that images in the notebook code/3_LSTMs.ipynb are not displayed properly. You'll find the graphs in code/graphs/ and further information on how the job was committed to the cluster in /code/HPC. Also, we added a .pdf of cod/3_LSTMs.ipyn in code/.
 
 ### Participants:
 Yiging Wang<br/>Dustin Hanke
