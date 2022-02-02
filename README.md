@@ -2,6 +2,8 @@
 
 ![Project image](https://github.com/DMH-dutte/Detection_of_composite_transposable_elements/blob/main/preview/frequency_landscape.png =250x?raw=true)
 
+<img src="https://github.com/DMH-dutte/Detection_of_composite_transposable_elements/blob/main/preview/frequency_landscape.png" width="500" height="500" />
+
 ## Description:
 Transposable elements are sequences in genomes that can change their position in the genome. Thus, they are also called “jumping genes”. They are able to affect the composition and size of genetic replicons. Our research interest in this project are composite transposable elements, which are flanked by two inverted repeats and transposable elements. Composite transposable elements are moving as one unit within a genome and are copying and inserting genes enclosed by itself. The following traits of composite transposable elements are making their detection challenging: 
 
