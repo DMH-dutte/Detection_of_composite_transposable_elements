@@ -32,7 +32,7 @@ Machine Learning with TensorFlow
 WiSe2122
 
 ### Data:
-The data used in this approach corresponds to the genomic microbiology group at institute of general microbilogy (Christian-Albrechts-Universität zu Kiel/University of Kiel).
+The data used in this approach corresponds to the genomic microbiology group at institute of general microbiology (Christian-Albrechts-Universität zu Kiel/University of Kiel).
 <br/>https://www.mikrobio.uni-kiel.de/de/ag-dagan
 
 ### Website:
