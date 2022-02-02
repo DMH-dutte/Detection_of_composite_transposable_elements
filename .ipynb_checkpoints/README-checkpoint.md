@@ -8,6 +8,11 @@ Transposable elements are sequences in genomes that can change their position in
 
 Composite transposable elements are usually associated with essential and indispensable genes, which are having a high gene frequency across genomes, but also with genes of lower essentiality, which leads to significant drop in the gene frequency landscape. We hypothesize that the genetic frequency landscape of a replicon will follow a particular pattern, which can be used as a marker for putative regions of composite transposable elements. Thus, we are representing here an approach to detect regions of putative composite transposable elements using gene frequencies, protein family clusters and positions of composite transposable elements as input for a supervised LSTM-based neural network model. 
 
+![Project image](preview/frequency_landscape.jpg)
+
+### HPC cluster:
+This project was executed on the NEC HPC-System (nesh) of the University of Kiel (CAU). 4 x NVIDIA Tesla V100-GPU cards have been used for training. <br/>
+Thus, it its possible that images in the notebook code/3_LSTMs.ipynb are not displayed properly. You'll find the graphs in code/graphs/ and further information on how the job was committed to the cluster in /code/HPC. 
 
 ### Participants:
 Yiging Wang<br/>Dustin Hanke
@@ -25,7 +30,7 @@ Machine Learning with TensorFlow
 WiSe2122
 
 ### Data:
-The data used in this approach orignates to the genomic microbiology group of the institute for general microbilogy (Christian-Albrechts-Universität zu Kiel/University of Kiel).
+The data used in this approach corresponds to the genomic microbiology group of the institute for general microbilogy (Christian-Albrechts-Universität zu Kiel/University of Kiel).
 <br/>https://www.mikrobio.uni-kiel.de/de/ag-dagan
 
 ### Website:

@@ -1,9 +1,14 @@
 /arrays
 /resources
-/code/graphs/
+/code/old
 /code/models/
 /code/training_2/
 /code/logs/
 /code/test.out
 /code/test.err
 /code/3_LSTMs.py
+/INFO.md
+/.ipynb_checkpoints
+/code/.ipynb_checkpoints
+/code/outputs/
+/code/batch_script/
