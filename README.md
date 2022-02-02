@@ -17,7 +17,7 @@ This project was executed on the NEC HPC-System (nesh) of the University of Kiel
 Thus, it its possible that images in the notebook code/3_LSTMs.ipynb are not displayed properly. You'll find the graphs in code/graphs/ and further information on how the job was committed to the cluster in /code/HPC. 
 
 ### Participants:
-Yiging Wang<br/>Dustin Hanke
+Yiqing Wang<br/>Dustin Hanke
 
 
 ### Contact information:
@@ -32,7 +32,7 @@ Machine Learning with TensorFlow
 WiSe2122
 
 ### Data:
-The data used in this approach corresponds to the genomic microbiology group of the institute for general microbilogy (Christian-Albrechts-Universität zu Kiel/University of Kiel).
+The data used in this approach corresponds to the genomic microbiology group at institute of general microbiology (Christian-Albrechts-Universität zu Kiel/University of Kiel).
 <br/>https://www.mikrobio.uni-kiel.de/de/ag-dagan
 
 ### Website:
